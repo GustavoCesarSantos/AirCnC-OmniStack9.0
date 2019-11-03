@@ -1,0 +1,19 @@
+label#thumbnail{
+  margin-bottom: 20px;
+  border: 1px dashed #ddd;
+  background-size: cover;
+  cursor: pointer;
+  height: 160px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+label#thumbnail input{
+  padding: 8px;
+}
+
+label#thumbnail.has-thumbnail{
+  
+} 
